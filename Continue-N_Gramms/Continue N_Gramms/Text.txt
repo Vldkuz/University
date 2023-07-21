@@ -1,0 +1,29 @@
+Eh:bien
+bien:mon
+mon:prince
+nes:et
+et:Lucques
+Lucques:ne
+ne:sont
+sont:plus
+plus:que
+que:des
+des:apanages
+apanages:des
+поместья:de
+de:la
+la:famille
+famille:Buonaparte
+Eh bien:mon
+bien mon:prince
+nes et:Lucques
+et Lucques:ne
+Lucques ne:sont
+ne sont:plus
+sont plus:que
+plus que:des
+que des:apanages
+des apanages:des
+des поместья:la
+поместья de:famille
+de la:famille
